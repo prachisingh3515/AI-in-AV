@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(0, 0, 0, 0.918);
+    color: white;
+}
+nav{
+    border-bottom:2px solid white;"
+}
+a.ai {
+    text-decoration: none;
+
+}
+
+.btn-ai:hover {
+    background: white;
+    color: black;
+
+}
+
+.gallery:hover {
+    background: white;
+}
+
+.gallery {
+    margin-right: 10px;
+}
+
+h5 {
+    display: inline;
+}
+
+.padding {
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+
+.link:link {
+    color: black;
+    text-decoration: none;
+}
+
+.link:visited {
+    color: blueviolet;
+    text-decoration: none;
+}
+
+.link:focus {
+    color: rgb(2, 2, 77);
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(2, 2, 77);
+    text-decoration: none;
+}
+
+.link[href^="http"] {
+    background: url("https://tse4.mm.bing.net/th?id=OIP.do1XhBkknM0E2pjKrLDElQHaHa&pid=Api&P=0&h=220") no-repeat 100% 0;
+    background-size: 16px 16px;
+
+    padding-right: 19px;
+
+}

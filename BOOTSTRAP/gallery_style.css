@@ -1,0 +1,125 @@
+body {
+    background-attachment: fixed;
+
+}
+
+.heading {
+    background-color: black;
+    color: white;
+    border-bottom: 5px solid white;
+}
+
+h1 {
+    padding-top: 20px;
+
+    text-align: center;
+
+
+}
+
+.container {
+
+    background-attachment: fixed;
+    background: url("https://img.freepik.com/free-vector/dark-black-background-design-with-stripes_1017-38064.jpg?t=st=1712897011~exp=1712900611~hmac=9a014e5335358f02a87dea688a1a22c977b2fd303f79d9711f567f00d3b1ce25&w=1060");
+}
+
+
+
+.container1 {
+    column-count: 2;
+    column-gap: 20px;
+    padding-top: 10px;
+}
+
+.card11 {
+
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 320px;
+}
+
+.card1 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 300px;
+}
+
+.container2 {
+    column-count: 3;
+    column-gap: 10px;
+}
+
+
+
+.card2 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 350px;
+}
+
+.container3 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.card3 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+
+    height: 550px;
+}
+
+.container4 {
+    column-count: 2;
+    column-gap: 20px;
+}
+
+.card4 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 300px;
+}
+
+.card44 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 320px;
+}
+
+.container5 {
+    column-count: 4;
+    column-gap: 5px;
+}
+
+.card5 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 350px;
+}
+
+.container6 {
+    column-count: 2;
+    column-gap: 5px;
+}
+
+.card6 {
+    background-color: rgb(207 232 220);
+    border: 2px solid rgb(79 185 227);
+    padding: 10px;
+    margin: 0 0 1em 0;
+    height: 350px;
+}
